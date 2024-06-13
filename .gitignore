@@ -1,0 +1,11 @@
+# Ignorar todas las carpetas por defecto
+/*
+
+# No ignorar las carpetas específicas que queremos subir
+!/Data Analytics/
+!/Data Engineer/
+!/Machine Learning/
+!/images/
+
+# No ignorar el archivo README.md
+!/README.md
